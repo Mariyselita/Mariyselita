@@ -3,18 +3,6 @@
 <!--
 **Mariyselita/Mariyselita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning leans
-- 👯 I’m looking to collaborate on oracle
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: lovg is my passion
--->
-            ooo
                                ooo$$$$$$$$$$$oo
                             o$$$$$$$$$$$$$$$$$$$ooo
                           o$$$$$$$$$$$$$$$$$"$$$$$$$oo
