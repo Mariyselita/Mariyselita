@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-                           ooo$$$$$$$$$$$oo
+                              o$$$$$$$$$$$oo
                             o$$$$$$$$$$$$$$$$$$$ooo
                           o$$$$$$$$$$$$$$$$$"$$$$$$$oo
                        o$$$$$$$$$$$$$$$$$$$  o $$$$$$$$$$$$$$oooo
@@ -35,10 +35,3 @@
 $$$$$$$$$$$$$$$$$$$$$$$$$$$                                 $$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$                                $$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$                               $$
-
-
-<!--
-**Mariyselita/Mariyselita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-    
-
